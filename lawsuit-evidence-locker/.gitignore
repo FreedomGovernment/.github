@@ -1,0 +1,41 @@
+# FreeLawGen — .gitignore
+# Jekyll and GitHub Pages
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (if used locally)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Build artifacts
+dist/
+build/

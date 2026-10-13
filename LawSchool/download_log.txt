@@ -1,0 +1,170 @@
+OpenCasebook Featured Casebooks
+Base directory: /home/astarcale/FreedomGovernment/LawSchool
+Dry run: False
+
+=== 1L Courses ===
+  Civil Procedure:
+    5196: Civil Procedure (Abramowicz)  ✓ civil-procedure-abramowicz.md (already downloaded, 5,427,435 bytes)
+    1245: Civil Procedure (Cohen)  ✓ civil-procedure-cohen.md (already downloaded, 3,238,447 bytes)
+    4444: U.S. Civil Procedure for International Students (Campbell)  ✓ us-civil-procedure-for-international-students-campbell.md (already downloaded, 3,668,987 bytes)
+  Constitutional Law:
+    5182: Constitutional Law Precedents (Coble)  ✓ constitutional-law-precedents-coble.md (already downloaded, 1,541,410 bytes)
+    531: Constitutional Law (Lessig)  ✓ constitutional-law-lessig.md (already downloaded, 9,562,173 bytes)
+    6029: Constitutional Structures (Gomez-Velez)  ✓ constitutional-structures-gomez-velez.md (already downloaded, 4,631,626 bytes)
+  Contracts:
+    4201: Contracts (Coates)  ✓ contracts-coates.md (already downloaded, 2,703,647 bytes)
+    11568: Contracts Casebook (Bar-Gill)  ✓ contracts-casebook-bar-gill.md (already downloaded, 2,014,703 bytes)
+    3665: Contracts: Happiness and Heartbreak (Kennedy)  ✓ contracts-happiness-and-heartbreak-kennedy.md (already downloaded, 2,393,297 bytes)
+  Criminal Law:
+    3553: Crim Law (Ball & Oberman)  ✓ crim-law-ball-oberman.md (already downloaded, 3,789,858 bytes)
+    5587: Criminal Law (Brown)  ✓ criminal-law-brown.md (already downloaded, 2,212,872 bytes)
+    6083: Federal Criminal Law (Brown)  ✓ federal-criminal-law-brown.md (already downloaded, 3,234,462 bytes)
+    5713: Criminal Advocacy (Hochman Bloom)  ✓ criminal-advocacy-hochman-bloom.md (already downloaded, 726,772 bytes)
+    2459: Criminal Law (Suk Gersen)  ✓ criminal-law-suk-gersen.md (already downloaded, 4,716,622 bytes)
+  Property:
+    2202: Property Law (White & Bratspies)  ✓ property-law-white-bratspies.md (already downloaded, 2,848,857 bytes)
+  Torts:
+    379: Torts (Karlan)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ torts-karlan.md (3,425,482 bytes, 15,086 lines) [source: docx]
+    2566: Torts! (Zittrain & Weinstock)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ torts-zittrain-weinstock.md (3,388,611 bytes, 16,725 lines) [source: docx]
+    187: Torts (Ziegler)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ torts-ziegler.md (5,002,328 bytes, 21,786 lines) [source: docx]
+
+=== Upper Level Courses ===
+  Corporations:
+    237: An Introduction to the Law of Corporations (Quinn)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ an-introduction-to-the-law-of-corporations-quinn.md (2,323,074 bytes, 12,709 lines) [source: docx]
+    261: Corporations (Spamann & Frankenreiter)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ corporations-spamann-frankenreiter.md (3,218,049 bytes, 16,748 lines) [source: docx]
+  Employment Law:
+    3728: Employment Discrimination (Buzuvis)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ employment-discrimination-buzuvis.md (3,331,174 bytes, 17,560 lines) [source: docx]
+    5444: Employment Law (Ziegler)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ employment-law-ziegler.md (5,485,893 bytes, 24,459 lines) [source: docx]
+  Evidence:
+    5959: Advanced Evidence (Chernoff)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ advanced-evidence-chernoff.md (911,918 bytes, 5,499 lines) [source: docx]
+    6094: Evidence (Chernoff)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ evidence-chernoff.md (2,338,201 bytes, 15,298 lines) [source: docx]
+    230: Federal Rules of Evidence (Coble)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ federal-rules-of-evidence-coble.md (2,855,677 bytes, 16,022 lines) [source: docx]
+  Lawyering:
+    762: Lawyering for Justice (Bavitz)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ lawyering-for-justice-bavitz.md (6,634 bytes, 132 lines) [source: docx]
+  Technology and the Law:
+    2554: Governing Digital Technology (Zittrain)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ governing-digital-technology-zittrain.md (76,686 bytes, 962 lines) [source: docx]
+    4395: Music and Digital Media (Bavitz)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ music-and-digital-media-bavitz.md (1,133,199 bytes, 5,578 lines) [source: docx]
+    6714: Technology, Human Rights, and Cybersecurity (Krishnamurthy)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ technology-human-rights-and-cybersecurity-krishnamurthy.md (832,777 bytes, 4,930 lines) [source: docx]
+  Other Topics:
+    3648: Advanced Legislation (Rabb)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ advanced-legislation-rabb.md (1,282,586 bytes, 9,093 lines) [source: docx]
+    4746: Asian Americans and U.S. Law (Tanaka)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ asian-americans-and-us-law-tanaka.md (1,758,125 bytes, 8,106 lines) [source: docx]
+    2806: Classics in International Trade Law (Steinberg)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ classics-in-international-trade-law-steinberg.md (18,746 bytes, 470 lines) [source: docx]
+    588: Family Law (Suk Gersen)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ family-law-suk-gersen.md (888,531 bytes, 3,577 lines) [source: docx]
+    5386: Gender, Sexuality, and the Law (Ziegler)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ gender-sexuality-and-the-law-ziegler.md (6,614,779 bytes, 31,543 lines) [source: docx]
+    5485: Immigration Law (Gundavaram)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ immigration-law-gundavaram.md (650,029 bytes, 5,516 lines) [source: docx]
+    109: Roe at 50 (Ziegler)  ✓ roe-at-50-ziegler.md (already downloaded, 1,778,799 bytes)
+    29: The Role of State Attorneys General (Tierney)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ the-role-of-state-attorneys-general-tierney.md (1,602,135 bytes, 13,421 lines) [source: docx]
+
+=== Graduate and Undergraduate Courses ===
+  General:
+    2175: Healthcare Law and Ethics (Coilfi)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ healthcare-law-and-ethics-coilfi.md (1,764,269 bytes, 9,069 lines) [source: docx]
+    882: Music IP & Stakeholders (Peters)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ music-ip-stakeholders-peters.md (55,479 bytes, 716 lines) [source: docx]
+    960: Strategy & Organization in Music (Peters)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ strategy-organization-in-music-peters.md (9,980 bytes, 378 lines) [source: docx]
+    4082: Criminal Procedure (Field)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ criminal-procedure-field.md (3,985,449 bytes, 19,293 lines) [source: docx]
+    4477: Law & Society (Field)    Retry 1/2 after error: HTTP Error 403: Forbidden (waiting 5s)
+    Retry 2/2 after error: HTTP Error 403: Forbidden (waiting 10s)
+  Direct HTML failed: HTTP Error 403: Forbidden
+  Converting DOCX to Markdown...
+  ✓ law-society-field.md (1,250,093 bytes, 5,520 lines) [source: docx]
+
+=== Summary: 42/42 succeeded, 0 failed ===

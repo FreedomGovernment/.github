@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% feed_meta %}
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar">
+      <div class="container">
+        <a href="{{ '/' | relative_url }}" class="brand">
+          <span class="brand-icon">⚖️</span>
+          <span class="brand-text">{{ site.title }}</span>
+        </a>
+        <ul class="nav-links">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/evidence-locker/' | relative_url }}">Evidence Locker</a></li>
+          <li><a href="{{ '/templates/' | relative_url }}">Templates</a></li>
+          <li><a href="{{ '/converter/' | relative_url }}">Document Converter</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          <li><a href="{{ '/docs/' | relative_url }}">Docs</a></li>
+        </ul>
+        <button class="mobile-menu-btn" onclick="toggleMobileMenu()">☰</button>
+      </div>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>FreeLawGen</h3>
+          <p>The Freedom Law Generator — open-source legal document and campaign generator platform.</p>
+        </div>
+        <div class="footer-section">
+          <h3>Links</h3>
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/evidence-locker/' | relative_url }}">Evidence Locker</a></li>
+            <li><a href="{{ '/templates/' | relative_url }}">Templates</a></li>
+            <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Resources</h3>
+          <ul>
+            <li><a href="{{ '/docs/' | relative_url }}">Documentation</a></li>
+            <li><a href="https://github.com/FreedomGovernment/lawsuit-evidence-locker" target="_blank">GitHub Repository</a></li>
+            <li><a href="https://github.com/FreedomGovernment" target="_blank">Freedom Government</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}. Open-source under the AStartup Strong Source-available License.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

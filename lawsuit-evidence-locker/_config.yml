@@ -1,0 +1,39 @@
+# FreeLawGen — Evidence Locker & Legal Document Generator
+# A Jekyll site for GitHub Pages — free hosting for legal activism
+# YAML frontmatter on pages is consumed by MCP server for context routing
+
+title: FreeLawGen
+description: >-
+  The Freedom Law Generator — open-source evidence locker and legal document
+  generator for class action lawsuits and legal activism. Hosted on GitHub Pages.
+url: "https://freedomgovernment.github.io"
+baseurl: "/lawsuit-evidence-locker"
+
+# Site settings
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# GitHub Pages compatible
+exclude:
+  - .git
+  - .github
+  - README.md
+  - node_modules
+  - "*.gemspec"
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
